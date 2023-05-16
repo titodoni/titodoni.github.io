@@ -17,9 +17,9 @@ body {
 
 .container {
     background-color: var(--white);
-    width: 275px;
+    width: 250px;
     padding: 15px;
-    margin: 85px auto;
+    margin: 100px auto;
     border-radius: 15px;
     box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.035);
 
